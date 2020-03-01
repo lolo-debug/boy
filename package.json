@@ -1,0 +1,11 @@
+{
+  "name": "lolo",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/lolo-debug/boy.git",
+  "author": "lolo-debug <lorisnadjai@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
